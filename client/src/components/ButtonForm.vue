@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>User Form</h1>
+    <h1 class="mb-4">User Form</h1>
     <form @submit.prevent="submitForm" class="form-inline">
       <div class="form-group mb-3">
         <label for="name" class="mr-2">Name:</label>

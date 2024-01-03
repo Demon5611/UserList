@@ -1,10 +1,10 @@
 # UserList
-Пример UserList.
+
 Стэк: 
 
 Фронт: Vue, Vite
+Бэк: Node,Express, Postgres
 
-Бэк: Node,Express, Postgres, 
 Функционал: 
 1) Создание списака юзеров в БД
 2) полный CRUD операций с изменением БД

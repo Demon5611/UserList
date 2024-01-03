@@ -2,7 +2,7 @@
 
 Стэк: 
 
-Фронт: Vue, Vite
+Фронт: Vue, Vite  
 Бэк: Node,Express, Postgres
 
 Функционал: 
